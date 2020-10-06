@@ -110,111 +110,111 @@
                 "DataSetEntries": {
                     "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDataSetEntriesDoc",
                     "Entries" : [
-                    {
-                        "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDataSetEntriesDoc",
-                        "EntryUID": "AB123",
+                      {
+                        "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDataSetEntriesDoc",
+                        "EntryUID": "AFG_449f9944-6518-4e23-a84a-7b2cef79f386",
                         "TimeStamp": "2020-09-17T12:00Z",
                         "Status": "Ready",
-                        "SourceType": "",
-                        "SourceURL" : "https://TIOF.Click?DSL=1&type=territoryDataSetEntries",
-                        "SourceTitle": "",
-                        "Editor": "",
-                        "ReviewedBy": "",
+                        "SourceType": "Official Pronouncement",
+                        "SourceURL": "https://TIOF.Click?DSL=1&type=territoryDataSetEntries",
+                        "SourceTitle": "Message for U.S. Citizens: Movement Restrictions in Kabul",
+                        "Editor": "Arky",
+                        "ReviewedBy": "Mark W. Datysgeld",
                         "Type": "",
                         "DEIURL": "",
                         "TerritoryPermURL": "",
                         "ProcessedBy": "",
-                        "Datapoints" : {
-                            "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                            "Categories": {
-                                "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                "Category": {
-                                    "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                    "CategoryStatus": "Ready",
-                                    "TDOLayout": "Ready",
-                                    "TabMaxWidth": "Ready",
-                                    "TabTitle": "Ready",
-                                    "TabToolTip": "Ready",
-                                    "Tags": "Afganistan, data, datapoints",
-                                    "Datapoint" : {
-                                        "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                        "DPUID": "AB123",
-                                        "Label": "AB123",
-                                        "DPPermURL": "AB123",
-                                        "DPStatus": "AB123",
-                                        "Name": "AB123",
-                                        "NameShort": "AB123",
-                                        "Description": "AB123",
-                                        "DescriptionShort": "AB123",
-                                        "RightsObserved": "AB123",
-                                        "Definition": "AB123",
-                                        "DefinitionPermURL": "AB123",
-                                        "Tooltip": "AB123",
-                                        "DataType": "AB123",
-                                        "PLDDataType": "AB123",
-                                        "Origin": "AB123",
-                                        "OriginPermURL": "AB123",
-                                        "FirstCreated": "AB123",
-                                        "LastCreated": "AB123",
-                                        "CellPermURL": "AB123",
-                                        "EditorGuidePermURL": "AB123",
-                                        "IconID": "AB123",
-                                        "IconIDPermURL": "AB123",
-                                        "LayoutXYZ": "AB123",
-                                        "QALogPermURL": "AB123",
-                                        "DataVocabulary": "AB123",
-                                        "DataVocabularyPermURL": "AB123",
-                                        "BackEndPermURL": "AB123",
-                                        "FrontEndPermURL": "AB123",
-                                        "inheritance": "AB123",
-                                        "DPOObjectType": "AB123",
-                                        "RightUID": "AB123",
-                                        "Tags": "AB123",
-                                        "Values": {
-                                            "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                            "Value": {
-                                                "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                                "Answer": {
-                                                    "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                                    "GeneratedBy": "AB123",
-                                                    "ContestationPermURL": "AB123",
-                                                    "Highlights": "AB123",
-                                                    "ValueType": "AB123",
-                                                    "Value": "AB123"
-                                                },
-                                                "StartDate": {
-                                                    "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                                    "GeneratedBy": "AB123",
-                                                    "Highlights": "AB123",
-                                                    "DateFormat": "AB123",
-                                                    "Value": "AB123",
-                                                    "ValueUTC": "AB123"
-                                                },
-                                                "EndDate": {
-                                                    "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                                    "GeneratedBy": "AB123",
-                                                    "Highlights": "AB123",
-                                                    "DateFormat": "AB123",
-                                                    "Value": "AB123",
-                                                    "ValueUTC": "AB123"
-                                                },
-                                                "Details": {
-                                                    "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                                                    "GeneratedBy": "AB123",
-                                                    "ContestationPermURL": "AB123",
-                                                    "Highlights": "AB123",
-                                                    "ValueType": "AB123",
-                                                    "Value": "AB123"
-                                                }
-                                            }
-                                        }
+                        "Datapoints": {
+                          "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                          "Categories": {
+                            "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                            "Category": {
+                              "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                              "CategoryStatus": "Ready",
+                              "TDOLayout": "Ready",
+                              "TabMaxWidth": "Ready",
+                              "TabTitle": "Ready",
+                              "TabToolTip": "Ready",
+                              "Tags": "Afganistan, data, datapoints",
+                              "Datapoint": {
+                                "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                "DPUID": "AB123",
+                                "Label": "AB123",
+                                "DPPermURL": "AB123",
+                                "DPStatus": "AB123",
+                                "Name": "AB123",
+                                "NameShort": "AB123",
+                                "Description": "AB123",
+                                "DescriptionShort": "AB123",
+                                "RightsObserved": "AB123",
+                                "Definition": "AB123",
+                                "DefinitionPermURL": "AB123",
+                                "Tooltip": "AB123",
+                                "DataType": "AB123",
+                                "PLDDataType": "AB123",
+                                "Origin": "AB123",
+                                "OriginPermURL": "AB123",
+                                "FirstCreated": "AB123",
+                                "LastCreated": "AB123",
+                                "CellPermURL": "AB123",
+                                "EditorGuidePermURL": "AB123",
+                                "IconID": "AB123",
+                                "IconIDPermURL": "AB123",
+                                "LayoutXYZ": "AB123",
+                                "QALogPermURL": "AB123",
+                                "DataVocabulary": "AB123",
+                                "DataVocabularyPermURL": "AB123",
+                                "BackEndPermURL": "AB123",
+                                "FrontEndPermURL": "AB123",
+                                "inheritance": "AB123",
+                                "DPOObjectType": "AB123",
+                                "RightUID": "AB123",
+                                "Tags": "AB123",
+                                "Values": {
+                                  "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                  "Value": {
+                                    "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                    "Answer": {
+                                      "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                      "GeneratedBy": "AB123",
+                                      "ContestationPermURL": "AB123",
+                                      "Highlights": "AB123",
+                                      "ValueType": "AB123",
+                                      "Value": "AB123"
+                                    },
+                                    "StartDate": {
+                                      "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                      "GeneratedBy": "AB123",
+                                      "Highlights": "AB123",
+                                      "DateFormat": "AB123",
+                                      "Value": "AB123",
+                                      "ValueUTC": "AB123"
+                                    },
+                                    "EndDate": {
+                                      "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                      "GeneratedBy": "AB123",
+                                      "Highlights": "AB123",
+                                      "DateFormat": "AB123",
+                                      "Value": "AB123",
+                                      "ValueUTC": "AB123"
+                                    },
+                                    "Details": {
+                                      "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                                      "GeneratedBy": "AB123",
+                                      "ContestationPermURL": "AB123",
+                                      "Highlights": "AB123",
+                                      "ValueType": "AB123",
+                                      "Value": "AB123"
                                     }
+                                  }
                                 }
+                              }
                             }
-    
+                          }
+
                         }
 
-                    }]
+                      }]
                 }
             }       
 
