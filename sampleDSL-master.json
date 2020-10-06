@@ -35,7 +35,7 @@
     "AvailableLocales": ["1", "2", "3"],
     "PermalinkLicenseURL": "https://TIOF.Click?DSL=1&type=licenseurl", 
     "LicenseCode": "MIT", 
-    "PermalinkCitingPolicy": "Lorem ipsem...",
+    "PermalinkCitingPolicy": "https://TIOF.Click/PLDCitingPolicy?CPUID=3",
     "CitingPolicyCode": "AB123",
     "StatsBox": ["1", "2", "3"],
     "Tags": ["Afghanistan", "lockdown", "status"],
