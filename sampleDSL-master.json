@@ -137,13 +137,13 @@
                     "Tags": "Afganistan, data, datapoints",
                     "Datapoint": {
                       "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
-                      "DPUID": "AB123",
+                      "DPUID": "20.1",
                       "Label": "AB123",
                       "DPPermURL": "AB123",
                       "DPStatus": 1,
                       "Name": "AB123",
                       "NameShort": "AB123",
-                      "Description": "AB123",
+                      "Description": "What is the maximum assembly allowed (PAX)?",
                       "DescriptionShort": "AB123",
                       "RightsObserved": "AB123",
                       "Definition": "AB123",
@@ -153,8 +153,8 @@
                       "PLDDataType": "AB123",
                       "Origin": "AB123",
                       "OriginPermURL": "AB123",
-                      "FirstCreated": "AB123",
-                      "LastCreated": "AB123",
+                      "FirstCreated": "2020-09-17T12:00Z",
+                      "LastCreated": "2020-09-17T12:00Z",
                       "CellPermURL": "AB123",
                       "EditorGuidePermURL": "AB123",
                       "IconID": "AB123",
@@ -179,23 +179,23 @@
                             "ContestationPermURL": "AB123",
                             "Highlights": "AB123",
                             "ValueType": "AB123",
-                            "Value": "AB123"
+                            "Value": "Partially"
                           },
                           "StartDate": {
                             "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
                             "GeneratedBy": "AB123",
                             "Highlights": "AB123",
-                            "DateFormat": "AB123",
-                            "Value": "AB123",
-                            "ValueUTC": "AB123"
+                            "DateFormat": "yyyy-MM-ddTHH:mmZ",
+                            "Value": "2020-03-28T00:00Z",
+                            "ValueUTC": "2020-03-28T00:00Z"
                           },
                           "EndDate": {
                             "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
                             "GeneratedBy": "AB123",
                             "Highlights": "AB123",
-                            "DateFormat": "AB123",
-                            "Value": "AB123",
-                            "ValueUTC": "AB123"
+                            "DateFormat": "yyyy-MM-ddTHH:mmZ",
+                            "Value": "2020-04-18T00:00Z",
+                            "ValueUTC": "2020-03-28T00:00Z"
                           },
                           "Details": {
                             "PermalinkDocs": "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
@@ -203,7 +203,7 @@
                             "ContestationPermURL": "AB123",
                             "Highlights": "AB123",
                             "ValueType": "AB123",
-                            "Value": "AB123"
+                            "Value": "Kabul"
                           }
                         }
                       }
