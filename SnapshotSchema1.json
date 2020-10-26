@@ -27,4 +27,47 @@
     "LicenseCode": "MIT", 
     "PermalinkCitingPolicy": "Lorem ipsem...",
     "CitingPolicyCode": "AB123",
+    "Source Types": [
+        {
+            "PermalinkDocs": "https://TIOF.Click?Territory=1", 
+            "SourceTypeStats":
+            {
+                "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoriesStats",
+                "CountTotal": 1,
+                "CountTypeOfficial": 1,
+                "CountTypeMedia": 0,
+                "CountTypeFM": 0,
+                "CountTypeNGO": 0,
+                "CountOther": 0,
+            
+            },
+            "SourceType":
+            {
+                "PermalinkDocs": "https://TIOF.Click?Territory=1", 
+                "SourceType": "",
+                "DefaultOrder":"",
+                "SnapDPs":
+                {
+                    "PermalinkDocs": "https://TIOF.Click?Territory=1", 
+                    "SnapDPUID": "AB123",
+                    "DPUID": "AB123",
+                    "TimeStamp": "2020-09-17T12:00Z",
+                    "Status": "Ready",
+                    "SourceType": "",
+                    "ProcessedBy": "",
+                    "Dates":
+                    {
+                        "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                        "Day":
+                        {
+                            "PermalinkDocs" : "https://TIOF.Click?DSL=1&type=territoryDatapointsDoc",
+                            "Date": "...",
+                            "Value": "AB123",
+                            "Origin": "AB123",
+                        }
+                    }
+                }
+            }
+        }]
+    
 }
